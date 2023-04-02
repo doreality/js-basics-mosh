@@ -1,7 +1,5 @@
 # JavaScript Basics
 
-JavaScript Basics at Codewithmosh
-
 <!--ts-->
 <!--te-->
 
