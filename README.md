@@ -2,6 +2,8 @@
 
 JavaScript Basics at Codewithmosh
 
+<!--ts-->
+<!--te-->
 
 ## Operators
 
